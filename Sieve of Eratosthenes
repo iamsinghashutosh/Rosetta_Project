@@ -21,7 +21,7 @@ void sieve(int n)
 }
 int main()
 {
-	int n,flag=1;
+	int n;
 	cin >> n;
   sieve(n);
 return 0;
